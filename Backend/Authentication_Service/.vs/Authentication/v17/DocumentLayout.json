@@ -1,0 +1,771 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB66A1B-A44E-4DC7-96C2-80BF7738DA0B}|..\\User_Profile_Service\\Registration_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\user_profile_service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\services\\favouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\repository\\ifavouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\repository\\favouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\models\\favouriteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\models\\favouritedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D619220-116F-4D3F-A30F-4084F0541751}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favourite_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AB71-3210-4FFB-8A05-58A86C692E59}|..\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favouriteservice.tests\\favouriteservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AB71-3210-4FFB-8A05-58A86C692E59}|..\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favouriteservice.tests\\favouritecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AB71-3210-4FFB-8A05-58A86C692E59}|..\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj|c:\\capstoneproject\\project_backend\\backend\\favourite_service\\favouriteservice.tests\\favouriterepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\repository\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\models\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{51EB6A60-1AE3-4287-BD19-C212A99D408F}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Favourite_CityDB/True/SqlTable/dbo.FavouriteItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\UserDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\Weather_Service\\WeatherMicroservice\\Controllers\\WeatherController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\Controllers\\ApiGatewayController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Migrations\\20241011113041_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherMicroservice.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C73938-669A-4684-A854-000680EE1EC2}|AuthenticationService.Tests\\AuthenticationService.Tests.csproj|c:\\capstoneproject\\project_backend\\backend\\authentication_service\\authenticationservice.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C73938-669A-4684-A854-000680EE1EC2}|AuthenticationService.Tests\\AuthenticationService.Tests.csproj|solutionrelative:authenticationservice.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 39,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:27:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T06:47:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavouriteService.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:46:48.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFavouriteRepository.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:46:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavouriteRepository.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:45:57.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavouriteItem.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:45:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavouriteDbContext.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:44:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavouriteController.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:44:02.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:43:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavouriteControllerTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteControllerTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteControllerTests.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteControllerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:16:24.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavouriteRepositoryTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteRepositoryTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteRepositoryTests.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:16:18.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavouriteService.Tests.csproj",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj",
+              "RelativeToolTip": "..\\Favourite_Service\\FavouriteService.Tests\\FavouriteService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T05:10:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FavouriteService.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:11:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFavouriteService.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:11:25.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:11:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:10:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:10:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\UserService.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:10:14.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\IUserService.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:10:08.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Program.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:09:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WeatherServiceTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherServiceTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherServiceTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:58:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeatherControllerTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherControllerTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherControllerTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:58:19.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GeocodingServiceTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingServiceTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingServiceTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingServiceTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:58:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:50:00.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GeocodingControllerTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingControllerTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\GeocodingControllerTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:58:00.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\AuthenticationService.Tests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "AuthenticationService.Tests\\AuthControllerTests.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\AuthenticationService.Tests\\AuthControllerTests.cs",
+              "RelativeToolTip": "AuthenticationService.Tests\\AuthControllerTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:50:17.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "Authentication\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:49:29.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IUserRepo.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:49:23.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Userdbcontext.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Userdbcontext.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "RelativeToolTip": "Authentication\\Models\\Userdbcontext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:49:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User_Login.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\User_Login.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "RelativeToolTip": "Authentication\\Models\\User_Login.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:49:05.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:06:46.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Authentication.http",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Authentication.http",
+              "RelativeDocumentMoniker": "Authentication\\Authentication.http",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Authentication.http",
+              "RelativeToolTip": "Authentication\\Authentication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-13T16:06:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApiGatewayController.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\Controllers\\ApiGatewayController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\Controllers\\ApiGatewayController.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\Controllers\\ApiGatewayController.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\Controllers\\ApiGatewayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:06:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\appsettings.json",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T16:05:09.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\ocelot.json",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\ocelot.json",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\API_Gateway\\APIGateWay\\ocelot.json",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAG8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T15:53:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.FavouriteItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Favourite_CityDB/True/SqlTable/dbo.FavouriteItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Favourite_CityDB/True/SqlTable/dbo.FavouriteItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-11T11:32:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241011113041_initial.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Migrations\\20241011113041_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Migrations\\20241011113041_initial.cs",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Migrations\\20241011113041_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\Migrations\\20241011113041_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:30:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T11:28:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\CapstoneProject\\Project_Backend\\Backend\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:39:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeatherMicroservice.Tests.csproj",
+              "DocumentMoniker": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherMicroservice.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherMicroservice.Tests.csproj",
+              "ToolTip": "C:\\CapstoneProject\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherMicroservice.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\Backend_Sakshi_v2_withConsul (1)\\Backend_Sakshi_v2_withConsul\\Backend_Sakshi_v2_withConsul\\Backend\\Weather_Service\\WeatherMicroservice.Tests\\WeatherMicroservice.Tests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T16:10:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\UserService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:15:44.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:15:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:15:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:14:48.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:14:29.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:38:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Weather_Service\\WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Weather_Service\\WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:51:45.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:42:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FavouriteController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:42:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:40:37.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\ocelot.json",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\ocelot.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T05:40:06.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Weather\\MICROSERVICES\\Weather_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\models\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E6A88-EA46-453F-A254-8836F48EE282}|..\\User_Profile_Service\\Registration_Service.csproj|d:\\project weather\\microservices\\user_profile_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A84EF9A-30AD-4B7C-97B0-593C52ACF7E2}|WeatherMicroservice\\WeatherMicroservice.csproj|d:\\project weather\\microservices\\weather_service\\weathermicroservice\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A84EF9A-30AD-4B7C-97B0-593C52ACF7E2}|WeatherMicroservice\\WeatherMicroservice.csproj|solutionrelative:weathermicroservice\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\models\\favouritedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\models\\favouriteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\repository\\favouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\repository\\ifavouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\services\\favouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\services\\ifavouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D3BB0-816D-4DAF-B9CD-383413120994}|..\\Favourite_Service\\Favourite_Service\\Favourite_Service.csproj|d:\\project weather\\microservices\\favourite_service\\favourite_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\repository\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\token_generator\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\token_generator\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E65376-EC72-4E22-8A01-F87B2286836C}|..\\Authentication_Service\\Authentication\\Authentication.csproj|d:\\project weather\\microservices\\authentication_service\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C19954-D2AB-47B3-8430-D46B34BFDAB5}|..\\API_Gateway\\APIGateWay\\APIGateWay.csproj|d:\\project weather\\microservices\\api_gateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C19954-D2AB-47B3-8430-D46B34BFDAB5}|..\\API_Gateway\\APIGateWay\\APIGateWay.csproj|d:\\project weather\\microservices\\api_gateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C19954-D2AB-47B3-8430-D46B34BFDAB5}|..\\API_Gateway\\APIGateWay\\APIGateWay.csproj|d:\\project weather\\microservices\\api_gateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\IUserService.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:33:29.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Service\\UserService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Service\\UserService.cs*",
+              "RelativeToolTip": "..\\User_Profile_Service\\Service\\UserService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:07:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\UserRepository.cs*",
+              "RelativeToolTip": "..\\User_Profile_Service\\Repositories\\UserRepository.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:06:38.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:06:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Models\\UserDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:03:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Models\\User.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Models\\User.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:03:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:56:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User_Login.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Models\\User_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:36:42.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Program.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:34:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAB4AAABAMzMzMzMwwB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:37:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs*",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Repository\\UserRepo.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:36:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\User_Profile_Service\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\User_Profile_Service\\Program.cs",
+              "RelativeToolTip": "..\\User_Profile_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:43:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavouriteController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Controllers\\FavouriteController.cs",
+              "ViewState": "AgIAACgAAAAAmJmZmZnpvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:48:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Weather_Service\\WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Weather_Service\\WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherMicroservice\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:56:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FavouriteDbContext.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:48:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavouriteItem.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Models\\FavouriteItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:48:20.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavouriteRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Repository\\FavouriteRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:48:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFavouriteRepository.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Repository\\IFavouriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:47:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavouriteService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Services\\FavouriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:47:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFavouriteService.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Services\\IFavouriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:47:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T10:46:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "RelativeToolTip": "..\\Favourite_Service\\Favourite_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:38:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Userdbcontext.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Models\\Userdbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:36:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Repository\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:36:05.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Token_Generator\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Token_Generator\\TokenGenerator.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Token_Generator\\TokenGenerator.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Token_Generator\\TokenGenerator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:35:41.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Token_Generator\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\Token_Generator\\ITokenGenerator.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\Token_Generator\\ITokenGenerator.cs",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\Token_Generator\\ITokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:35:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Authentication_Service\\Authentication\\appsettings.json",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\Authentication_Service\\Authentication\\appsettings.json",
+              "RelativeToolTip": "..\\Authentication_Service\\Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T10:35:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "..\\API_Gateway\\APIGateWay\\Program.cs",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\Program.cs",
+              "RelativeToolTip": "..\\API_Gateway\\APIGateWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:33:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\API_Gateway\\APIGateWay\\ocelot.json",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\ocelot.json",
+              "RelativeToolTip": "..\\API_Gateway\\APIGateWay\\ocelot.json",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T10:31:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\API_Gateway\\APIGateWay\\appsettings.json",
+              "ToolTip": "D:\\Project Weather\\MICROSERVICES\\API_Gateway\\APIGateWay\\appsettings.json",
+              "RelativeToolTip": "..\\API_Gateway\\APIGateWay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T10:31:42.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
